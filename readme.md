@@ -2,7 +2,7 @@
 
 The Cybertronics website is an event website made for the cyber security event organized by Iodump College Tech Community in the Zeal College of Engineering and Research in CSMA hall. Students can visit the website and register for the event, as well as register to play in the accompanying quiz.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./screenshots/quiz.png)
 
 
 ## Technology Used ✨
@@ -62,6 +62,19 @@ If you have any questions or issues with the landing page, please contact the or
 - Registration
 - Landing Page
 - Responsive
+
+## Screen Shots
+Login Page
+![login](./screenshots//login.png)
+
+Instruction Page
+![instructions](./screenshots/instructions.png)
+
+Quiz Page
+![quiz page](./screenshots/quiz.png)
+
+Result Page
+![result](./screenshots/result.png)
 
 
 ![Logo](https://iodump01.github.io/iodump/assets/iodump.jpg)
