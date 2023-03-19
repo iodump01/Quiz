@@ -77,7 +77,7 @@ Result Page
 ![result](./screenshots/result.png)
 
 
-![Logo](https://iodump01.github.io/iodump/assets/iodump.jpg | width=100)
+<img alt="logo" src="https://iodump01.github.io/iodump/assets/iodump.jpg" width="100" height="100">
 
 
 ## Run Locally
