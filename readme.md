@@ -1,6 +1,6 @@
 # Cybertronics Website and Quiz 🔥
 
-The Cybertronics website is an event website made for the cyber security event organized by Iodump College Tech Community in the Zeal College of Engineering and Research in CSMA hall. Students can visit the website and register for the event, as well as register to play in the accompanying quiz.
+The Cybertronic website is an event website made for the cyber security event organized by Iodump College Tech Community in the Zeal College of Engineering and Research in CSMA hall. Students can visit the website and register for the event, as well as register to play in the accompanying quiz.
 
 ![App Screenshot](./screenshots/quiz.png)
 
